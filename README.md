@@ -19,7 +19,7 @@
 - I'm currently working on: **Side hobby projects for personal use and practical experience**
 - I'm currently learning: **Best UI/UX, Backend practices**
 - Ask me about: **C++, OOP, Database, UI/UX**
-- Fun fact: **I started programming in C++, and i found out about pointers under 6 months..**
+- Fun fact: **I started programming in C++, and learned about pointers quickly, and learned the hard way about segmentation faults for about 6 months**
 
  **<h3 align="center">Skills</h3>**
 
