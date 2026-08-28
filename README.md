@@ -16,10 +16,10 @@
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **Side hobby projects for personal use and practical experience**
-- 🌱 I'm currently learning: **Best UI/UX, Backend practices**
-- 💬 Ask me about: **C++, OOP, Database, UI/UX**
-- ⚡ Fun fact: **I started programming in C++, and i found out about pointers under 6 months..**
+- I'm currently working on: **Side hobby projects for personal use and practical experience**
+- I'm currently learning: **Best UI/UX, Backend practices**
+- Ask me about: **C++, OOP, Database, UI/UX**
+- Fun fact: **I started programming in C++, and i found out about pointers under 6 months..**
 
  **<h3 align="center">Skills</h3>**
 
@@ -27,7 +27,12 @@
 
  **<h3 align="left">GitHub Stats</h3>**
 
-<p align="left">
+<p align="center">
+  <img width="48%" src="https://github-stats-extended.vercel.app/api?username=benniiee&theme=default&cache_seconds=1800&border_radius=4&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&line_height=25" alt="GitHub stats Card" />
+</p>
+<p align="center">
+  <img width="48%" src="https://github-stats-extended.vercel.app/api/top-langs?username=benniiee&theme=default&cache_seconds=1800&border_radius=4&hide_title=false&layout=compact&langs_count=5&card_width=400&hide_progress=false" alt="GitHub top-langs Card" />
+</p>
+<p align="center">
   <img width="48%" src="https://streak-stats.demolab.com/?user=benniiee&theme=default&hide_border=false&border_radius=4.5&date_format=M+j%5B%2C+Y%5D&mode=daily&disable_animations=false&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&exclude_days=&locale=en&card_height=200" alt="GitHub streak Card" />
 </p>
-
