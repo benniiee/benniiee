@@ -12,6 +12,8 @@
   </ul>
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Software%20Engineering&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false"/>
+
  **<h3 align="left">Passionate fullstack web developer, creating robust and scalable web applications. Skilled in both front-end and back-end technologies, with a keen eye for user experience and performance optimization.</h3>**
 
 **<h3 align="left">Rapid Fire</h3>**
