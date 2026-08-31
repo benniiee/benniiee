@@ -16,7 +16,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira%20Code&pause=1200&color=61afef&center=true&vCenter=true&width=450&lines=Future%20Full%20Stack%20Developer;Building%20ideas%20for%20fun%20and%20for%20personal%20use)](https://git.io/typing-svg)
 
-I'm a software engineer focused on building scalable websites that is accessible for the majority of the people
+I'm a software engineer focused on building scalable websites that is accessible for the majority of the people with quality that provides a overall good user experience
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com) [![Twitter](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com)
 
