@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6%2C11%2C20%2C29&text=Nice%20to%20meet%20you%20here&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer&textBg=false" alt="Banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=gradient&customColorList=6%2C11%2C20%2C29&text=Nice%20to%20meet%20you%20here&fontSize=72&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer&textBg=false" alt="Banner" width="100%" />
 
 ![Profile views](https://komarev.com/ghpvc/?username=benniiee&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -47,11 +47,11 @@ I'm a software engineer focused on building scalable websites that is accessible
 
 ### GitHub Stats
 <p align="center">
-  <img width="100%" src="https://github-stats-extended.vercel.app/api?username=benniiee&theme=default&cache_seconds=1800&border_radius=4&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&line_height=25" alt="GitHub stats Card" />
+  <img width="100%" src="https://github-stats-extended.vercel.app/api?username=benniiee&theme=highcontrast&cache_seconds=1800&border_radius=4&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&line_height=25" alt="GitHub stats Card" />
 </p>
 <p align="center">
-  <img width="100%" src="https://github-stats-extended.vercel.app/api/top-langs?username=benniiee&theme=default&cache_seconds=1800&border_radius=4&hide_title=false&layout=compact&langs_count=5&card_width=400&hide_progress=false" alt="GitHub top-langs Card" />
+  <img width="100%" src="https://github-stats-extended.vercel.app/api/top-langs?username=benniiee&theme=highcontrast&cache_seconds=1800&border_radius=4&hide_title=false&layout=compact&langs_count=5&card_width=400&hide_progress=false" alt="GitHub top-langs Card" />
 </p>
 <p align="center">
-  <img width="100%" src="https://streak-stats.demolab.com/?user=benniiee&theme=default&hide_border=false&border_radius=4.5&date_format=M+j%5B%2C+Y%5D&mode=daily&disable_animations=false&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&exclude_days=&locale=en&card_height=200" alt="GitHub streak Card" />
+  <img width="100%" src="https://streak-stats.demolab.com/?user=benniiee&theme=highcontrast&hide_border=false&border_radius=4.5&date_format=M+j%5B%2C+Y%5D&mode=daily&disable_animations=false&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&exclude_days=&locale=en&card_height=200" alt="GitHub streak Card" />
 </p>
