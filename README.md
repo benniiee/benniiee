@@ -10,11 +10,11 @@
 
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/227603686?v=4" width="120" height="120" style="border-radius: 16px; object-fit: cover;" alt="benny" />
+<img src="https://avatars.githubusercontent.com/u/227603686?v=4" width="200" height="200" style="border-radius: 16px; object-fit: cover;" alt="benny" />
 
 # Hi there, I'm benny 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira%20Code&pause=1200&color=61afef&center=true&vCenter=true&width=450&lines=Future%20Full%20Stack%20Developer;Building%20ideas%20for%20fun%20and%20for%20personal%20use)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira%20Code&pause=1200&color=61afef&center=true&vCenter=true&width=450&lines=Future%20Full%20Stack%20Developer;Ideas%20for%20fun%20and%20for%20personal%20use)](https://git.io/typing-svg)
 
 I'm a software engineer focused on building scalable websites that is accessible for the majority of the people with quality that provides a overall good user experience
 
